@@ -1,1 +1,1 @@
-<?php echo 'arquivo index 2';
+<?php echo 'arquivo index alterado';
