@@ -1,1 +1,1 @@
-<?php echo 'arquivo index alterado e sem ;' 
+<?php echo 'arquivo index alterado issue_1'
